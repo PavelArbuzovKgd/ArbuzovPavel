@@ -7,8 +7,7 @@ using System.Threading.Tasks;
 namespace Geek
 {
     class MainClass
-    {
-        
+    {        
         static void Main()
         {
             Task1 task1 = new Task1();
