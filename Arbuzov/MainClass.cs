@@ -23,7 +23,6 @@ namespace Geek
             task4.Race();
             task5.Month();
             task6.Year();
-
             Console.ReadKey();
         }
     }
